@@ -1,6 +1,6 @@
 {
   "short_name": "Nitesh App",
-  "name": "Loading Nitesh App",
+  "name": "Install Nitesh App",
   "icons": [
     {
       "src": "favicon.ico",
@@ -14,7 +14,8 @@
     },
     {
       "src": "loadingApp.gif",
-      "type": "image/gif"
+      "type": "image/gif",
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
